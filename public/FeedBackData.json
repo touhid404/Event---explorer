@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "review": "Incredible event lineup! The tech workshops were very insightful and well organized.",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "review": "Loved the programming bootcamp! The mentors were experienced and super friendly.",
+    "rating": 4,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "name": "Mike Johnson",
+    "review": "The hackathon was top-notch—great challenges, great crowd, and a lot of fun!",
+    "rating": 5,
+    "image": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "name": "Emma Davis",
+    "review": "Enjoyed the sessions overall, though some talks could have been more interactive.",
+    "rating": 3,
+    "image": "https://randomuser.me/api/portraits/women/65.jpg"
+  }
+]

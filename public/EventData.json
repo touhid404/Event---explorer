@@ -1,0 +1,62 @@
+[
+  {
+    "id": "event_001",
+    "name": "Tech Innovators Conference 2025",
+    "thumbnail": "https://i.ibb.co.com/N2fpzjsg/tech.jpg",
+    "category": "Technology",
+    "date": "2025-05-15",
+    "location": "Dhaka Convention Center, Dhaka",
+    "entry_fee": 500,
+    "description": "Join the forefront of technological evolution at the Tech Innovators Conference 2025. This premier event brings together global tech leaders, startup founders, software engineers, and forward-thinking entrepreneurs to exchange groundbreaking ideas, showcase emerging technologies, and ignite collaboration. With keynote speeches, panel discussions, and networking opportunities, this is the ultimate convergence of innovation and inspiration."
+  },
+  {
+    "id": "event_002",
+    "name": "Digital Marketing Expo 2025",
+    "thumbnail": "https://i.ibb.co.com/MxyfvDGZ/digital.jpg",
+    "category": "Marketing",
+    "date": "2025-06-10",
+    "location": "Bangabandhu International Conference Center, Dhaka",
+    "entry_fee": 300,
+    "description": "Step into the future of brand engagement at the Digital Marketing Expo 2025. Discover the latest tools, strategies, and success stories from the world’s top digital marketing minds. Whether you're a marketing professional, content creator, business owner, or student, this expo offers actionable insights on SEO, social media, influencer campaigns, and AI-powered marketing platforms to elevate your digital presence."
+  },
+  {
+    "id": "event_003",
+    "name": "AI and Machine Learning Summit",
+    "thumbnail": "https://i.ibb.co.com/BVd0Zf8M/aiml.jpg",
+    "category": "Artificial Intelligence",
+    "date": "2025-07-05",
+    "location": "Radisson Blu, Dhaka",
+    "entry_fee": 800,
+    "description": "Delve deep into the world of intelligent systems at the AI and Machine Learning Summit 2025. This cutting-edge event features top researchers, developers, and tech companies unveiling real-world AI solutions, innovative ML models, and future-forward applications. Attendees will experience live demos, research presentations, and interactive sessions focused on the impact of AI across industries like healthcare, finance, and education."
+  },
+  {
+    "id": "event_004",
+    "name": "Startup Pitch Fest 2025",
+    "thumbnail": "https://i.ibb.co.com/5XrZ5DWk/startup.jpg",
+    "category": "Entrepreneurship",
+    "date": "2025-08-20",
+    "location": "UIU Auditorium, Dhaka",
+    "entry_fee": 200,
+    "description": "Fuel your entrepreneurial journey at Startup Pitch Fest 2025, where innovation meets opportunity. Aspiring founders will take the stage to present disruptive ideas to a panel of investors, industry leaders, and mentors. With live feedback, funding opportunities, and startup showcases, this fest is a must-attend for anyone passionate about launching or supporting next-gen ventures."
+  },
+  {
+    "id": "event_005",
+    "name": "Cybersecurity Essentials Workshop",
+    "thumbnail": "https://i.ibb.co.com/WNVtnKGy/cyber.jpg",
+    "category": "Security",
+    "date": "2025-09-12",
+    "location": "American Center, Dhaka",
+    "entry_fee": 450,
+    "description": "Protect your digital world with confidence at the Cybersecurity Essentials Workshop 2025. Tailored for professionals, students, and IT teams, this workshop delivers hands-on experience in identifying vulnerabilities, defending against cyber threats, and implementing best practices for secure data management. Gain insights from cybersecurity experts and leave equipped with the tools to strengthen your digital defenses."
+  },
+  {
+    "id": "event_006",
+    "name": "UI/UX Design Meetup",
+    "thumbnail": "https://i.ibb.co.com/jP0TrSfH/ux.jpg",
+    "category": "Design",
+    "date": "2025-10-03",
+    "location": "EMK Center, Dhaka",
+    "entry_fee": 150,
+    "description": "Discover the art and science of user-centered design at the UI/UX Design Meetup 2025. This creative gathering brings together designers, developers, and product thinkers to explore modern design principles, wireframing techniques, and real-world UX challenges. Whether you’re a seasoned professional or a curious beginner, this meetup is your gateway to mastering intuitive and impactful digital experiences."
+  }
+]
